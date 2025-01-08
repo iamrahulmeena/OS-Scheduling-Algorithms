@@ -31,7 +31,7 @@ The algorithms implemented are:
 3. Navigate to the directory where the code files are saved.
 4. Compile the code using the following command:
    ```bash
-   g++ -o scheduling scheduling_algorithms.cpp
+   g++ -o scheduling main.cpp
    ```
 5. Run the program:
    ```bash
